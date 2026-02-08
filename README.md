@@ -2,7 +2,7 @@
 
 This is an updated version of the original ODCON2, based on the original ODCON2 build.
 
-![Finished ODCON build](odcon-ibi.jpg?raw=true)
+![Finished ODCON build](odcon-ibi.jpeg?raw=true)
 
 Compared to the original, this version includes those parts modified by the DIYLightGund Discord community : 
 
